@@ -17,3 +17,9 @@ Thats it. Now every file type should be located in seperate folder inside the fo
 
 ## Support
 If you encounter an unexpected issue you can report it [here](https://github.com/N0amLevi/Organizer/issues)
+
+
+## Roadmap
+- [x] Seperate files by extension to folders
+- [ ] Reduce the size of the .exe file
+- [ ] Seperate files by group (etc. Videos, Images, Audio)
