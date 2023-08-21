@@ -1,6 +1,6 @@
 # Organizer
 A program that organize all files in a folder by extension type. This program is written in Python using tkinter.
-
+ 
 ## Installation
 You can install the .exe file from [here](https://github.com/N0amLevi/Organizer/releases/tag/v1.0.0) and run it.
 
@@ -23,3 +23,6 @@ If you encounter an unexpected issue you can report it [here](https://github.com
 - [x] Seperate files by extension to folders
 - [ ] Reduce the size of the .exe file
 - [ ] Seperate files by group (etc. Videos, Images, Audio)
+
+## Project status
+This project was created to learn python better so don't expect the code to be top of the line or the program to be better than the alternatives.
